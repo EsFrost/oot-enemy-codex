@@ -1,0 +1,18 @@
+{
+  "name": "ocarina_of_time-enemy_codex",
+  "version": "0.0.1",
+  "description": "A collection of all enemy npcs, their description, stats, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sigmund Frost",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "helmet": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
