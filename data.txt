@@ -1,0 +1,769 @@
+Kokiri Sword
+This is a hidden treasuer of the Kokiri, but you can borrow it for a while. Be sure to practice with it before you really fight!
+
+Blue Rupee
+That's five Rupees!
+
+Green Rupee
+That's one Rupee!
+
+Recovery Heart
+Your life energy is recovered!
+
+Deku Shield Shop
+Once equipped, you can defend with R. If set on fire, it will burn!
+
+Deku Seed Shop
+You can use them as bullets for your Slingshot. You can't buy them unless you have a Slingshot.
+
+Arrow Shop
+You need a bow to shoot them. You can't buy them unless you have a bow.
+
+Recovery Heart Shop
+This will instantly refill one Heart Container.
+
+Deku Nuts Shop
+Throw them to stun your enemies. You can carry only a limited amount of them.
+
+Deku Sticks Shop
+A long branch gathered from the Great Deku Tree. You can use it as a weapon, but it will break.
+
+Deku Shield
+You got a Deku Shield! Switch to the Equipment Subscreen and select the shield. Press A to equip it.
+Press R to crouch and defend. If you press R while Z Targeting, you can move while defending.
+
+Deku Stick
+You got a Deku Stick! On the Select Item Subscreen, you can set it to C-L, C-D or C-R. Set it ot C and swing it with C!
+When you want to put it away, stand still and press A. You can carry up to 10 sticks, but don't waste them.
+
+Deku Nuts
+You got a Deku Nut! On the Select Item Subscreen, you can set it to C-L, C-D or C-R. Set it ot C and
+try throwing it! It will flash and stun the enemy!
+
+Deku Baba (withered)
+Though it looks witheredm it will hurt you if you touch it!
+
+Deku Baba
+Hit it when it lunges at you, and it will stand upright. Cut it quickly to get a Deku Stick!
+
+Skullwalltula
+Be careful not to touch it!
+
+Dungeon Map
+You found the Dungeon Map! Press START to get into the Subscreens and look at the Map SubScreen!
+Blue Chambers are places you have already visited. Your current location is the flashing room.
+Move the stick up and down to select a floor to view.
+
+Deku Scrub
+It will hide in the grass if you get close to it. Bounce the nuts it spits back at it!
+
+Fairy Slingshot
+You found the Fairy Slingshot! On the Select Item Subscreen, you can set it to C-L, C-D or C-R.
+Press C to take it out and hold it. As you hold C you can aim with the stick. Release C to unleash
+a Deku Seed.
+If you want to shoot right away, when you first press C, hold down C a little longer to get a seed ready.
+
+Big Skulltula
+Its soft belly is its weak point!
+
+Compass
+You found the Compasss! Now you can see the locations of many hidden things in the dungeon!
+
+Gold Skulltula Token
+You destroyed a Gold Skulltula.
+You got a token proving you destroyed it!
+
+Gohma Larva
+Look out when it gets ready to pounce!
+
+Gohma
+Parasitic Armored Arachnid
+It's one of the parasitic monsters inside the Deku Tree! Its eye is vulnerable when it's red!
+
+Heart Container
+You got a Heart Container!
+Your maximum life energe is increased by one heart. Your life energy will be totally filled.
+
+Kokiri Emerald
+You got the Kokiri's Emerald!
+This is the Spiritual Stone of the Forest, now entrusted to you by the Great Deku Tree.
+
+Fairy Ocarina
+You received the Fairy Ocarina!
+This is a memento from Saria. Set it to C and press C to start playing it!
+On the Select Item Subscreen, you can set it to C-L, C-D or C-R, and then use that C to start playing it.
+You can play different notes with A and the four C Buttons. Press B to quit playing, or to start yorusong over again.
+
+Deku Seeds
+You got Deku Seeds!
+These are small, hard seeds that you can use as bullets for your Slingshot.
+
+Deku Sticks Upgrade
+Now you can pick up many Deku Sticks! You can carry up to 20 of them.
+
+Deku Seeds Bullet Bag
+You got a Deku Seeds Bullet Bag. This bag can hold up to 40 slingshot bullets.
+
+Business Scrub
+If you get close to it, it will hide in the grass...
+
+Hylian Shield Shop
+This is a big, heavy shield just like the ones Hylian Knights use. It can stand up to flame attacks!
+
+Hylian Shield
+You got a Hylian Shield!
+Switch to thhe Equipment Subscreen and select this shield, then equip it with A.
+
+Bombs Shop
+Take it out with C and press C again to throw it. You can't buy them without a bomb bag.
+
+Green Potion Shop
+Drink to recover your magic power. This is just a single dose.
+
+Red Potion Shop
+Drink it to recover your life energy. This is just a single dose.
+
+Fairy's Spirit Shop
+You need an emtpy bottle to put it in. Don't go into battle without it!
+
+Blue Fire Shop
+You need an empty bottle to put it in. Use it to feel refreshing coolness.
+
+Bottle Bug Shop
+You need an empty bottle to put it in. It looks liks just an ordinary bug...
+
+Fish Shop
+Just caught and so fresh! You can keep it in a bottle.
+
+Poe Shop
+This is a bottled ghost spirit. Sell it to someone who is crazy about weird things like this.
+
+Weird Egg
+Feels like there's something moving inside! Set it to C and see what happens!
+On the Select Item Subscreen, you set it to C-L, C-D or C-R, and then press C to use it.
+
+Chicken
+Look! A chicken hatched from the egg you were incubating! It's the miracle of life!
+
+Zelda's Letter
+You received Zelda's Letter!
+Wow! This letter has Princess Zelda's autograph! Set it to C and show it with C.
+On the Select Item Subscreen, you can set it to C-L, C-D or C-R, and the use that C to show it to people.
+
+Zelda's Lullaby
+You've learned Zelda's Lullaby!
+
+Empty Bottle
+You got an Empty Bottle!
+After you put sometihng in this bottle, set it to C when you want to use the item inside.
+
+Bug
+You put a Bug in the bottle! You can release it by pressing C. THis kind of bug prefers to live in small holes in the ground.
+
+Piece of Heart
+You got a Piece of Heart! Collect four pieces total to get another Heart Container. More containers mean more life energy!
+You got a Piece of Heart! So far, you've collected two pieces. With two more pieces, you will gain more life energy!
+You got a Piece of Heart! Now you've collected three pieces! With another piece, your life energy weill be powered up!
+You got a Piece of Heart! You've completed another Heart Container! Your maximum life energy is increased!
+
+Fish
+You got a Fish! Use it with C and something might happen... It looks so fresh and delicious!
+On the Select Item Subscreen, you can set it to C-L, C-D or C-R, and the press that C to use it.
+
+Adult's Wallet
+You got an Adult's Wallet! Adults are allowed to carry a lot of money. Now you can hold up to 200 Rupees.
+
+Red Tektite
+Lock on to it as it jumps with Z Targeting!
+
+Poe
+If you stare at it with Z Targeting, it will disappear...
+Damage - 2/4
+
+Poe in a bottle
+You caught a Poe.
+
+Poe of the graveyard
+Poe of the graveyard? If you stare at it with Z Targeting, it will disappear...
+
+Keese
+When you get close to it, use Z Targeting. Even if it flies away, you can still target it.
+Damage - 2/4
+
+ReDead
+Its gaze will paralyze you. If it bites you, tap any button to escape!
+Damage - 1/4 (Damage over time)
+
+Sun's Song
+Restless souls wander where they don't belong, bring them calm with the Sun's Song.
+
+Stalchild
+Don't be afraid of the Stalchild! Just attack it repeatedly!
+Damage - 1/4
+
+Lon Lon Milk
+You got Lon Lon Milk! This milk is very nutritious! Use it with C to recover your life energy! 
+You will recover five hearts per drink. There are two drinks per bottle.
+On the Select Item Subscreen, set it to C-L, C-D or C-R, and then use that C to take a drink.
+
+Epona's Song
+You've learned Epona's Song!
+
+Guay
+Destroy it before it flies into you.
+Damage - 2/4
+
+Goron Tunic
+A tunic made by Gorons. Adult size. Protects you from heat damage.
+
+Wolfos
+Draw it close to you and watch its movement carefully! Attack it when it drops its guard!
+Damage - 1/4
+
+Mad Scrub
+If you get close to it, it will hide in the grass...
+Damage - 2/4
+
+Saria's Song
+You've learned Saria's Song!
+
+Fairy
+You caught a Fairy in a bottle!
+On the Select Item Subscreen, you can set it to C-L, C-D or C-R.
+This tiny fairy is a reliable partner who will revive you the moment you run out of life energy.
+Once you set it to C, though, you can ask for its help anytime.
+
+Goron's Bracelet
+You got the Goron's Bracelet!
+Now you can pull up Bomb Flowers. Stand next to one and use A to pull it up!
+
+Beamos
+Watch out for its searching beam! I bet it doesn't like smoke to get in its eye!
+Damage - 4/4
+
+Baby Dodongo
+Watch out for its leaping attack! It will explode after it's defeated!
+Damage - 2/4, 2/4
+
+Lizalfos
+Use your shield well and fight with Z Targeting techniques!
+Damage - 2/4
+
+Dodongo
+Watch out for its fiery breath! Use Z Targeting techniques!
+Damage - 4/4
+
+Fire Keese
+Destroy it before it flies into you! If you don't, its flames will burn up your Deku Shield!
+Damage - 2/4
+
+Armos
+Stop its movement and then destroy it!
+Damage - 2/4
+
+Red Dupee!
+You got a Red Rupee! That's twenty Rupees!
+
+Bomb Bag
+You found a Bomb Bag! This bomb-holdikng bag is made from a Dodongo's stomach!
+You found 20 Bombs inside! Now you can set Bombs to C and blow stuff up! What a lucky guy!
+
+King Dodongo
+Infernal Dinosaur
+This is a huge Dodongo that eats anything! Give it a shock, and finish it off with your sword!
+Damage - 2/4
+
+Goron's Ruby
+You obtained the Goron's Ruby! This is the Spiritual Stone of Fire passed down by the Gorons!
+
+Magic Meter
+You mastered the secret sword technique of the Spin Attack!
+Hold B to charge your weapon! Release B to unleash a wave of energy with your spin!
+If you want to release energy without charging your weapon, just rotate the stick once and press B for a very effective quick spin!
+
+Magic Jar
+You got a Magic Jar! Your Magic Meter is filled!
+
+Magic Bean
+You got a Magic Bean! Find a suitable spot for a garden and plant it with C. Then, wait for something fun to happen!
+On the Select Item Subscreen, you can set it to C-L, C-D or C-R, and then use that C to plant it.
+
+Octorok
+Bounce back the rocks they spit at you!
+Damage - 2/4
+
+Blue Tektite
+It's hard to beat on the water. Lure in onto the land!
+Damage - 2/4
+
+Zora Tunic Shop
+A tunic made by Zoras. Adult size. Prevents you from downing underwater.
+
+Silver Scale
+You got the Silver Scale! Jump into the water and press A. You can dive deeper than you could before.
+
+Ruto's Letter
+You got an Empty Bottle! Put something inside and press C to use it... What? Something's already inside!?
+
+Peahat Larve
+Defend with your shield!
+Damage - 4/4
+
+Peahat
+Its weak point is its roots!
+Damage - 4/4
+
+Farore's Wind
+You got Farore's Wind! This is warp magic you can use with C. Warp when you are in danger!
+You will teleport to the Warp Point. When you first use the magic, you will create a Warp Point.
+When you use the magic again, you can either dispel the Warp Point, you created last time or warp to that point.
+
+Shabom
+If you try to cut it, it will bounce off your blade!
+Damage - 1/4
+
+Biri
+If you touch it, you will be electrocuted!
+Damage - 2/4
+
+Bari
+If you touch it, you will be electrocuted!
+Damage - 2/4
+
+Stinger
+Destroy if before it flies into you!
+Damage - 2/4
+
+Tailpasaran
+Its tail is its weak point!
+Damage - 2/4
+
+Boomerang
+You found the Boomerang! On the Select Item Subscreen, you can set it to C-L, C-D or C-R.
+Press C to use it to attack distant enemies!
+
+Parasitic Tentacle
+It seems that the narrow part is its weak point... You need a particular item to destroy it!
+Damage - 1/4
+
+Bitocto
+Attack it from behind!
+Damage - 2/4
+
+Barinade
+Bio-electric Anemone
+Many parasitic jellyfish swarm around this monster. Aim for its body, protected by jellyfish!
+Damage - 1/4
+
+Zora's Sapphire
+You obrtained Zora's Sapphire! This is the Spiritual Stone of Water passed down by the Zoras!
+
+Ocarina of Time
+You found the Ocarina of Time! This is the Royal Family's hidden treasure which Zelda left behind. It glows with a mystical light...
+
+Song of Time
+You've learned the Song of Time!
+
+Bombchu
+You got Bombchu! On the Select Item Subscreen, you can set it to C-L, C-D or C-R.
+Carry and place with C. This is a new type bomb that can even crawl up walls. Aim well and release it!
+
+Din's Fire
+You got Din's Fire! Its fireball engulfs everything! It's attack magic you can use with C.
+
+Deku Nuts Upgrade
+Now you can carry many Deku Nuts! You can hold up to 30 nuts!
+
+Big Bomb Bag
+You got a Big Bomb Bag!
+Now you can carry more Bombs, up to a maximum of 30!
+
+Stone of Agony
+You obtained the Stone of Agony! If you equip a Rumble Pak, it will react to nearby... secrets.
+
+Keaton Mask Shop
+Keaton stuff is hot, hot, hot!
+
+Keaton Mask
+You borrowed a Keaton Mask. Wear it with C to show it off! You'll be a popular guy with this mask on!
+
+Skull Mask Shop
+A horned skull mask.
+
+Skull Mask
+You borrowed a Skull Mask. Wear it with C to show it off! You feel like a monster while you wear this mask!
+
+Spooky Mask Shop
+A sad, wooden mask.
+
+Spooky Mask
+You borrowed a Spooky Mask. Wear it with C to show it off! You can scare many people with this mask!
+
+Bunny Hood Shop
+With swinging rabbit ears!
+
+Bunny Hood
+You borrowed a Bunny Hood. Wear it with C to show it off! The hood's long ears are so cute!
+
+Mask of Truth Shop
+Mysterious mask to see into other people's minds.
+
+Mask of Truth
+You borrowed a Mask of Truth. Wear it with C to show it off! Show it to many people!
+
+Gerudo Mask Shop
+With its charming eyes, it makes a great lady's disguise.
+
+Gerudo Mask
+You borrowed a Gerudo Mask. Wear it with C to show it off! This mask will make you look like... a girl?
+
+Zora Mask Shop
+You'll look cool while you're swimming if you wear this mask!
+
+Zora Mask
+You borrowed a Zora Mask. Wear it with C to show if off! With this mask, you can become one of the Zoras!
+
+Goron Mask Shop
+This round face makes you a little happier!
+
+Goron Mask
+You borrowed a Goron Mask. Wear it with C to show it off! It will make your head look big, though.
+
+Master Sword
+X, isn't that...?!
+It's that legendary blade...
+The Master Sword!!
+
+Light Medallion
+You received the Light Medallion! Rauru the Sage adds his power to yours!
+
+Pocket Egg
+You borrowed a Pocket Egg! A pocket Cucco will hatch from it overnight. Be sure to give it back when you are done with it.
+
+Hookshot
+You found the Hookshot! It's a sping-loaded chain that you can cast out to hook things.
+You can use it to drag distnat items towards you, or you can use it to pull yourself toward something.
+While holding C, you can aim with the stick. Shoot it by releasing C.
+
+Goron Tunic
+You got a Goron Tunic! This heat-resistant tunic is adult size, so it won't fit a kid... Going to a hot place? No worry!
+
+Double Magic Meter
+Your Magic Meter is enhanced!
+
+Bolero of Fire
+You have learned the Bolero of Fire!
+
+Zora Tunic
+You got a Zora Tunic! This diving suit is adult size, so it won't fit a kid. Wear it, and you won't drown underwater.
+
+Freezzard
+Watch out for its freezing breath! Destroy it completely before it revies.
+Damage - 1/4 (Damage over time every 2 ticks)
+
+Ice Keese
+Destroy it before it flies into you!
+Damage - 2/4 + 1/4 (Damage over time every 2 ticks)
+
+Blue Fire
+You put a Blue Fire into the bottle! This is a cool flame you can use with C-L, C-D or C-R.
+
+White Wolfos
+Lure it close to you and watch its movement carefully! Attack it when it drops its guard!
+Damage - 2/4
+
+Iron Boots
+You got the Iron Boots! So heavy, you can't run. So heavy, you can't float.
+
+Serenade of Water
+You have learned the Serenade of Water!
+
+Small Key
+You found a Small Key! This key will open a locked door. You can use it only in this dungeon.
+
+Like Like
+An enemy that eats shields and certain clothes. Beat it quickly to get your gear back!
+Dasmage - 2/4
+
+Red Bubble
+Guard against its attack with your shield!
+Damage - 2/4
+
+Torch Slug
+When the fire on its back is extinguished, it will run away. Destroy it before it relights!
+Damage - 2/4
+
+Flare Dancer
+Extinguish its flaming clothes first...
+Damage - 1/4
+
+Megaton Hammer
+You found the Megaton Hammer! Press C to smash and break junk! It's so heavy, you need to use two hands to swing it!
+
+Volvagia
+Subterannean Lava Dragon
+It's the Boss of the Fire Temple, revived bu the Evil King. I don't know its weak point...
+Damage - 8/4 , Fire breath 4/4 (?)
+
+Fire Medallion
+You received the Fire Medallion! Darunia awakens as a Sage and adds his power to yours!
+
+Giant's Knife
+You got the Giant's Knife! Hold it with both hands and use B to attack! It's so long, you can't use it with a shield.
+
+Minuet of Forest
+You have learned the Minuet of Forest!
+
+Blue Bubble
+Guard against its blue flame with your shield!
+Damage - 2/4
+
+Stalfos
+Lure it close to you and watch its movement carefully! Attack it when it drops its guard!
+Damage - 4/4 (Jump attack) - 8/4
+
+Big Deku Baba
+Hit it when it lunges at you, and it will stand upright. Cut it quickly to get a Deku Stick!
+Damage - 2/4
+
+Floormaster
+When it splits up, destroy all the pieces before they reunite!
+Damage - 4/4 (Pieces) - 2/4 (Damage over time)
+
+Wallmaster
+Watch out for its shadow on the floor. Destroy it before it goes back up to the ceiling!
+Damage - 4/4 (Effect: Takes you to entrance of dungeon)
+
+Fairy Bow
+You found the Fairy Bow! On the Select Item Subscreen, you can set it to C-L, C-D or C-R.
+Press C to take it out and hold it. As you hold down C you can aim with the stick. Release C to let fly with an arrow.
+
+Boss Key
+You got the Boss Key! Now you can get inside the chamnber where the Boss lurks.
+
+Joelle
+Joelle - one of the Poe sisters
+Aim for her when she appears!
+Damage - 2/4
+
+Beth
+Beth - one of the Poe sisters
+Aim for her when she appears!
+Damage - 2/4
+
+Green Bubble
+Use your sword when its green fire vanishes!
+Damage - 2/4
+
+Amy
+Amy - one of the Poe sisters
+Aim for her when she appears!
+Damage - 2/4
+
+Meg
+Meg - one of the Poe sisters
+If she splits into multiple images, you need to figure out which one is the real one. Is it this one?
+Damage - 2/4
+
+Phantom Ganon
+Evil spirit from beyond
+Attack him when he comes out of one of the pictures! Watch out for the fake one!
+Damage - 8/4
+Second Phase
+It's an evil ghost of the Forst Temple! He comes out of one of the pictures. Answer his magic attack with an attack of your own!
+Damage - 4/4
+
+Forest Medallion
+You received the Forest Medallion! Saria awakens as a Sage and adds her power to yours!
+
+Spike
+Aim for it when it retracts its spikes!
+Damage - 2/4
+
+Shell Blade
+Its internal muscle is its weak point!
+Damage - 2/4
+
+Dark Link
+Conquer yourself!
+Damage - 2/4
+
+Longshot
+You found the Longshot! It's an upgraded Hookshot. It extends twice as far!
+
+Morpha
+Giant Aquatic Amoeba
+Master of the Water Temple. It has absolute control of water. Pull out its nucleus and attack it!
+Damage - 4/4 + Normal hit (Grab + Damage over time - 1/4)
+
+Water Medallion
+You received the Water Medallion! Ruto awakens as a Sage and adds her power to yours!
+
+Fire Arrow
+You got the Fire Arrow! Set it to C and your arrows will be powered up! IF you hit your target it will catch fire.
+
+Golden Scale
+You got the Golden Scale! Jump into the water and press A. Now you can dive much deeper than you could before!
+
+Prelude of Light
+You have learned the Prelude of Light!
+
+Nocturne of Shadow
+You have learned the Nocturne of Shadow!
+
+Giant's Wallet
+You got a Giant's Wallet! What a huge wallet! Now you can carry up to 500 Rupees.
+
+Song of Storms
+You've learned the Song of Storms!
+
+Big Quiver
+You upgraded your quiver to a Big Quiver! Now you can carry more arrows- 40 in total!
+
+Gibdo
+Its gaze will paralyze you. If it bites you, tap any button to escape!
+Damage - 2/4 (Damage over time)
+
+Dead Hand
+Watch out for its infite hands! Aim for its head!
+Damage - 2/4
+
+Lens of Truth
+You found the Lens of Truth! Set it to C and press S to look through it! Mysterious things are hidden everywhere!
+Be sure to try to use it ouseide of the well. Seeing the truth will cost magic power, so press C again to stop using it.
+
+Hover Boots
+You got the Hover Boots! With these mysterious boots you can hover above the ground. The downside? No traction!
+You can even use these to walk for short periods where there is no solid ground. Be brave and trust in the boots!
+
+Bongo Bongo
+Phantom Shadow Beast
+Boss of the Shadow Temple, revived from the well. Look at it with the eye of truth!
+Damage - 4/4 (Grab), 2/4 (Damage over time from grab), Horizontal hit - 4/4, Punch 4/4, Body - 12/4
+
+Shadow Medallion
+You received the Shadow Medallion! Impa awakens as a Sage and adds her power to yours!
+
+Gerudo Thief
+When she drops her guard, attack! If you don't defeat her, you'll be captured!
+Damage - 2/4
+
+Gerudo's Membership Card
+You obtained the Gerudo's Membership Card! You can get into the Gerudo's training ground in their hideout.
+
+Dinoflos
+Use your shield well and fight with Z Targeting techniques!
+Damage - 2/4
+
+Ice Arrow
+You got the Ice Arrow! Set it to C and your arrows will be powered up! If you hit your target, it will freeze.
+This arrow magic is granted only to those who complete the difficult training of the Gerudos, so uses it with pride!
+
+Poe
+This Poe doesn't disappear even if you stare at it. It doesn't spook easily, does it...
+Damage - 1/4
+
+Leever
+Watch its movements closely and let it go by!
+Damage - 2/4
+
+Nayru's Love
+You got Nayru's Love! Cast this to create a powerful protective barrier. It's defensive magic you can use with C.
+
+Requiem of Spirit
+You've learned the Requiem of Spirit!
+
+Silver Gauntlets
+You found the Silver Gauntlets! If you wore them, you would feel power in your arms, the power to lift big things with A!
+But, these gauntlets won't fit a kid... Plus, you promised to give them to Nabooru. You should keep your word...
+
+Anubis
+It's vulnerable to fire!
+Damage - 2/4
+
+Iron Knuckle
+Watch for its ax attack! It hurts a lot! Stike when it drops its guard!
+Damage - 16/4
+
+Mirror Shield
+You found the Mirro Shield! The shield's polished surface can reflect light or energy. Press R to use it.
+
+White Bubble
+Aim for it when it stops!
+Damage - 0
+
+Iron Knuckle
+Something's strange... This is not an ordinary enemy!
+Damage - 16/4
+
+Twinrova
+Sorceress Sisters
+Twinrova Kotake
+Ganondorf's surrogate mother. Sorceress of Ice. She seems vulnerable to high temperature.
+Twinrova Koume
+Ganondorf's surrogate mother. Sorceress of Flame. She seems vulnerable to low temperature.
+Damage - 8/4 + 1/4 Damage over time
+Second Phase
+This is the combined form of Kotake and Koume. Turn their magic attack back at them!
+Damage - 12/8 + 1/4 Damage over time
+
+Spirit Medallion
+You received the Spirit Medallion! Nabooru awakens as a Sage and adds her power to yours!
+
+Light Arrow
+You got the Light Arrow! Set it to C and your arrows will be powered up! The light of justice will smite evil!
+
+Pocket Cucco
+Look! A chicken hatched from the egg you were incubating! It's the miracle of life!
+
+Cojiro
+You returned the Pocket Cucoo and got Cojiro in return! Unlike other Cuccos, Cojiro rarely crows.
+
+Odd Mushroom
+You got an Odd Mushroom! A fresh mushroom like this is sure to spoil quickly! Take it to the Kakariko Potion Shop, quickly!
+
+Odd Potion
+You received an Odd Potion! You don't konw what's going on between this lady and that guy, but take it to the Lost Woods!
+
+Poacher's Saw
+You returned the Odd Potion and got the Poacher's Saw! The young punk guy must have left this behind.
+
+Broken Goron's Sword
+You traded the Poacher's Saw for a Broken Goron's Sword! Visit Biggoron to get it repaired!
+
+Prescription
+You checked the Borken Goron's Sword and received a Prescription! Go see King Zora!
+
+Eyeball Frog
+You used the Prescription and received an Eyeball Frog! Be quick and deliver it to Lake Hylia while it's cold!
+
+Eye Drops
+You traded the Eyeball Frog for the World's Finest Eye Drops! Hurry! Take them to Biggoron before they go bad!
+
+Claim Check
+The Biggoron's Sword... You got a Claim Check for it! You can't wait for the sword to be completed!
+
+Biggoron's Sword
+You handed in the Claim Check and got the Biggoron's Sword! This blade was forged by a master smith and won't break!
+
+Golden Gauntlets
+You found the Golden Gauntlets! You can feel even more power coursing through your arms! Grab with A and lift stuff up!
+
+Blue Potion
+You got a Blue Potion! Drink it with C to recover you life energy and magic power.
+
+Big Poe
+You caught a Big Poe! Sell it at the Ghost Shop for a lot of money!
+
+Defensive Power
+Your defensive power is enhanced!
+Your defensive power has been enhanced! Damage infilcted by enemies will be reduced by half.
+
+Ganondorf
+Great King of Evil
+I have no idea what his weak point is!
+Damage - Ground Pound - 8/4 - Light Orb - 12/4 - Dark Orb - 20/4
+
+Ganon
+I really have no idea what his weak point is!
+Damage - 16/4
