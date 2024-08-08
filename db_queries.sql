@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS groups;
 DROP TABLE IF EXISTS drops;
 
 CREATE TABLE monsters (
-    id SERIAL PRIMARY KEY,
+    id INT PRIMARY KEY,
     name VARCHAR(255),
     description TEXT,
     navi_text TEXT,
@@ -13,18 +13,18 @@ CREATE TABLE monsters (
     location TEXT,
     weakness TEXT,
     strength TEXT,
-    image_url TEXT,
+    image_url TEXT
 );
 
 CREATE TABLE drops (
-    id SERIAL PRIMARY KEY,
+    id INT PRIMARY KEY,
     item TEXT,
     amount TEXT,
     rate FLOAT
 );
 
 CREATE TABLE groups (
-    id SERIAL PRIMARY KEY,
+    id INT PRIMARY KEY,
     group_id INT,
     drop_id INT,
     monster_id INT,
