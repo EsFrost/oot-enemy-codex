@@ -1,16 +1,16 @@
-DROP TABLE IF EXISTS monsters;
-DROP TABLE IF EXISTS groups;
-DROP TABLE IF EXISTS drops;
+DROP TABLE IF EXISTS monsters CASCADE;
+DROP TABLE IF EXISTS groups CASCADE;
+DROP TABLE IF EXISTS drops CASCADE;
 
 CREATE TABLE monsters (
     id INT PRIMARY KEY,
     name VARCHAR(255),
     description TEXT,
+    boss_text TEXT,
     navi_text TEXT,
     hp INT,
     damage INT,
     dot INT,
-    location TEXT,
     weakness TEXT,
     strength TEXT,
     image_url TEXT

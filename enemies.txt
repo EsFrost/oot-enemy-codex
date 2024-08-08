@@ -1,0 +1,332 @@
+Deku Baba (withered) 1
+Though it looks withered it will hurt you if you touch it!
+Damage - 1/4
+A shriveled and weakened form of the standard Deku Baba. Unlike its more aggressive counterpart, the Withered Deku Baba remains stationary and only flinches when struck. Defeating it is easy, as a single strike will cause it to drop either a Deku Stick or a Deku Nut.
+
+Deku Baba 2
+Hit it when it lunges at you, and it will stand upright. Cut it quickly to get a Deku Stick!
+Damage - 1/4
+A hostile, plant-like enemy that springs from the ground and attempts to bite Link when he comes near. Defeating a Deku Baba usually yields a Deku Stick or a Deku Nut. They can be easily dispatched with a sword slash, and timing your attack correctly will prevent them from lunging.
+
+Skullwalltula 3
+Be careful not to touch it!
+Damage - 1/4
+The Skullwalltula clings to walls and will drop down or scuttle towards Link when he gets too close. They are generally found on vines or walls that Link must climb, making them an obstacle in his path. Skullwalltulas can be defeated with a single strike from most weapons, including the sword, slingshot, or Hookshot. Once defeated, they clear the way for Link to continue climbing safely.
+
+Deku Scrub 4
+It will hide in the grass if you get close to it. Bounce the nuts it spits back at it!
+Damage - 1/4
+Small, plant-like creatures that hide in Deku Flowers and pop out to spit Deku Nuts at intruders. When Link approaches, the Deku Scrub will shoot a projectile at him and then retreat back into its flower. To defeat a Deku Scrub, Link must deflect its projectile back at it using his shield, causing the Deku Scrub to emerge, stunned and defenseless. In most cases, after being hit, the Deku Scrub will offer information or flee.
+
+Big Skulltula 5
+Its soft belly is its weak point!
+Damage - 2/4
+A large, spider-like enemy with a hard, skull-like shell on its back. Big Skulltulas hang from ceilings or drop down in front of Link to block his path. They are immune to frontal attacks due to their armored shell, but they expose their vulnerable underbelly when they turn around, which can be struck to defeat them. Big Skulltulas can be easily defeated by waiting for them to turn or by using weapons like the Hookshot to target their weak spot directly.
+
+Gohma Larva 6
+Look out when it gets ready to pounce!
+Damage - 1/4
+Small, spider-like creatures that hatch from the eggs laid by Queen Gohma. They are fast and aggressive, swarming Link as soon as they emerge. Despite their numbers, Gohma Larvae are weak and can be defeated with a single strike from most weapons. They are primarily found in the boss fight with Queen Gohma, where they can be a distraction if not dealt with quickly.
+
+Gohma 7
+Parasitic Armored Arachnid
+It's one of the parasitic monsters inside the Deku Tree! Its eye is vulnerable when it's red!
+Damage - 2/4
+Gohma is a large, menacing arachnid and the boss of the Inside the Deku Tree dungeon. Known as the Parasitic Armored Arachnid, she has a single, large, glowing eye that serves as her weak point. Gohma attacks by crawling on the ceiling and dropping eggs that hatch into Gohma Larvae. Her primary attack involves charging at Link or swiping with her claws. To defeat Gohma, Link must use a ranged weapon like the Slingshot to stun her by hitting her eye when it turns red, then quickly strike her with his sword while she is incapacitated. After a few cycles of this, she is defeated.
+
+Business Scrub 8
+If you get close to it, it will hide in the grass...
+Damage - 1/4
+A type of Deku Scrub that, rather than being purely hostile, is more interested in doing business. When approached, a Business Scrub will shoot Deku Nuts at Link, similar to a regular Deku Scrub. However, after Link deflects the attack back with his shield, the Business Scrub will cease its aggression and offer to sell items, such as Deku Nuts, Deku Sticks, or other useful supplies, often at a high price. They can be found in various locations throughout Hyrule, often hidden in secret grottos or dungeons.
+
+Red Tektite 9
+Lock on to it as it jumps with Z Targeting!
+Damage - 2/4
+A spider-like creature that moves by hopping on its four legs, commonly found in rocky or mountainous areas. Red Tektites are agile and will attempt to hop towards Link to attack him. They are less aggressive than their blue counterparts but can still be a nuisance, especially when encountered in groups. Red Tektites are vulnerable to most of Link's weapons, and a few sword strikes or a well-placed ranged attack will defeat them. They are typically found in areas like Death Mountain or near Goron City.
+
+Poe 10
+If you stare at it with Z Targeting, it will disappear...
+Damage - 2/4
+Ghostly apparitions that are often encountered in the Forest Temple and occasionally other haunted areas. Poes are elusive and can become invisible at will, making them difficult to attack directly. They typically hover in the air and attack Link with fireballs or a similar energy projectile. To defeat a Poe, Link must use the Lock-on targeting system to track its movements, wait for it to become visible, and then strike it with his sword or other weapons. Once defeated, Poes drop a Poe Soul, which is used for trading with the big Poe hunter, or, in some cases, specific rewards.
+
+Keese 11
+When you get close to it, use Z Targeting. Even if it flies away, you can still target it.
+Damage - 2/4
+
+ReDead 12
+Its gaze will paralyze you. If it bites you, tap any button to escape!
+Damage - 1/4 (Damage over time)
+
+Stalchild 13
+Don't be afraid of the Stalchild! Just attack it repeatedly!
+Damage - 1/4
+
+Guay 14
+Destroy it before it flies into you.
+Damage - 2/4
+
+Wolfos 15
+Draw it close to you and watch its movement carefully! Attack it when it drops its guard!
+Damage - 1/4
+
+Mad Scrub 16
+If you get close to it, it will hide in the grass...
+Damage - 2/4
+
+Beamos 17
+Watch out for its searching beam! I bet it doesn't like smoke to get in its eye!
+Damage - 4/4
+
+Baby Dodongo 18
+Watch out for its leaping attack! It will explode after it's defeated!
+Damage - 2/4
+
+Lizalfos 19
+Use your shield well and fight with Z Targeting techniques!
+Damage - 2/4
+
+Dodongo 20
+Watch out for its fiery breath! Use Z Targeting techniques!
+Damage - 4/4
+
+Fire Keese 21
+Destroy it before it flies into you! If you don't, its flames will burn up your Deku Shield!
+Damage - 2/4
+
+Armos 22
+Stop its movement and then destroy it!
+Damage - 2/4
+
+King Dodongo 23
+Infernal Dinosaur
+This is a huge Dodongo that eats anything! Give it a shock, and finish it off with your sword!
+Damage - 2/4
+
+Octorok 24
+Bounce back the rocks they spit at you!
+Damage - 2/4
+
+Blue Tektite 25
+It's hard to beat on the water. Lure in onto the land!
+Damage - 2/4
+
+Peahat Larva 26
+Defend with your shield!
+Damage - 4/4
+
+Peahat 27
+Its weak point is its roots!
+Damage - 4/4
+
+Shabom 28
+If you try to cut it, it will bounce off your blade!
+Damage - 1/4
+
+Biri 29
+If you touch it, you will be electrocuted!
+Damage - 2/4
+
+Bari 30
+If you touch it, you will be electrocuted!
+Damage - 2/4
+
+Stinger 31
+Destroy if before it flies into you!
+Damage - 2/4
+
+Tailpasaran 32
+Its tail is its weak point!
+Damage - 2/4
+
+Parasitic Tentacle 33
+It seems that the narrow part is its weak point... You need a particular item to destroy it!
+Damage - 1/4
+
+Big Octo 34
+Attack it from behind!
+Damage - 2/4
+
+Barinade 35
+Bio-electric Anemone
+Many parasitic jellyfish swarm around this monster. Aim for its body, protected by jellyfish!
+Damage - 1/4
+
+Freezzard 36
+Watch out for its freezing breath! Destroy it completely before it revies.
+Damage - 1/4 (Damage over time every 2 ticks)
+
+Ice Keese 37
+Destroy it before it flies into you!
+Damage - 2/4 + 1/4 (Damage over time every 2 ticks)
+
+White Wolfos 38
+Lure it close to you and watch its movement carefully! Attack it when it drops its guard!
+Damage - 2/4
+
+Like Like 39
+An enemy that eats shields and certain clothes. Beat it quickly to get your gear back!
+Dasmage - 2/4
+
+Red Bubble 40
+Guard against its attack with your shield!
+Damage - 2/4
+
+Torch Slug 41
+When the fire on its back is extinguished, it will run away. Destroy it before it relights!
+Damage - 2/4
+
+Flare Dancer 42
+Extinguish its flaming clothes first...
+Damage - 1/4
+
+Volvagia 43
+Subterannean Lava Dragon
+It's the Boss of the Fire Temple, revived bu the Evil King. I don't know its weak point...
+Damage - 8/4 , Fire breath 4/4 (?)
+
+Blue Bubble 44
+Guard against its blue flame with your shield!
+Damage - 2/4
+ 
+Stalfos 45
+Lure it close to you and watch its movement carefully! Attack it when it drops its guard!
+Damage - 4/4 (Jump attack) - 8/4
+
+Big Deku Baba 46
+Hit it when it lunges at you, and it will stand upright. Cut it quickly to get a Deku Stick!
+Damage - 2/4
+
+Floormaster 47
+When it splits up, destroy all the pieces before they reunite!
+Damage - 4/4 (Pieces) - 2/4 (Damage over time)
+
+Wallmaster 48
+Watch out for its shadow on the floor. Destroy it before it goes back up to the ceiling!
+Damage - 4/4 (Effect: Takes you to entrance of dungeon)
+
+Joelle 49
+Joelle - one of the Poe sisters
+Aim for her when she appears!
+Damage - 2/4
+
+Beth 50
+Beth - one of the Poe sisters
+Aim for her when she appears!
+Damage - 2/4
+
+Green Bubble 51
+Use your sword when its green fire vanishes!
+Damage - 2/4
+
+Amy 52
+Amy - one of the Poe sisters
+Aim for her when she appears!
+Damage - 2/4
+
+Meg 53
+Meg - one of the Poe sisters
+If she splits into multiple images, you need to figure out which one is the real one. Is it this one?
+Damage - 2/4
+
+Phantom Ganon 54
+Evil spirit from beyond
+Attack him when he comes out of one of the pictures! Watch out for the fake one!
+Damage - 8/4
+Second Phase
+It's an evil ghost of the Forst Temple! He comes out of one of the pictures. Answer his magic attack with an attack of your own!
+Damage - 4/4
+
+Spike 55
+Aim for it when it retracts its spikes!
+Damage - 2/4
+
+Shell Blade 56
+Its internal muscle is its weak point!
+Damage - 2/4
+
+Dark Link 57
+Conquer yourself!
+Damage - 2/4
+
+Morpha 58
+Giant Aquatic Amoeba
+Master of the Water Temple. It has absolute control of water. Pull out its nucleus and attack it!
+Damage - 4/4 + Normal hit (Grab + Damage over time - 1/4)
+
+Gibdo 59
+Its gaze will paralyze you. If it bites you, tap any button to escape!
+Damage - 2/4 (Damage over time)
+
+Dead Hand 60
+Watch out for its infite hands! Aim for its head!
+Damage - 2/4
+
+Bongo Bongo 61
+Phantom Shadow Beast
+Boss of the Shadow Temple, revived from the well. Look at it with the eye of truth!
+Damage - 4/4 (Grab), 2/4 (Damage over time from grab), Horizontal hit - 4/4, Punch 4/4, Body - 12/4
+
+Gerudo Thief 62
+When she drops her guard, attack! If you don't defeat her, you'll be captured!
+Damage - 2/4
+
+Dinoflos 63
+Use your shield well and fight with Z Targeting techniques!
+Damage - 2/4
+
+Poe 64
+This Poe doesn't disappear even if you stare at it. It doesn't spook easily, does it...
+Damage - 1/4
+
+Leever 65
+Watch its movements closely and let it go by!
+Damage - 2/4
+
+Anubis 66
+It's vulnerable to fire!
+Damage - 2/4
+
+Iron Knuckle 67
+Watch for its ax attack! It hurts a lot! Stike when it drops its guard!
+Damage - 16/4
+
+White Bubble 68
+Aim for it when it stops!
+Damage - 1/4
+
+Iron Knuckle Nabooru 69
+Something's strange... This is not an ordinary enemy!
+Damage - 16/4
+
+Twinrova 70
+Sorceress Sisters
+Twinrova Kotake
+Ganondorf's surrogate mother. Sorceress of Ice. She seems vulnerable to high temperature.
+Twinrova Koume
+Ganondorf's surrogate mother. Sorceress of Flame. She seems vulnerable to low temperature.
+Damage - 8/4 + 1/4 Damage over time
+Second Phase
+This is the combined form of Kotake and Koume. Turn their magic attack back at them!
+Damage - 12/8 + 1/4 Damage over time
+
+Big Poe 71
+You caught a Big Poe! Sell it at the Ghost Shop for a lot of money!
+Damage - 0
+
+Ganondorf 72
+Great King of Evil
+I have no idea what his weak point is!
+Damage - Ground Pound - 8/4 - Light Orb - 12/4 - Dark Orb - 20/4
+
+Ganon 73
+I really have no idea what his weak point is!
+Damage - 16/4
+
+Moblin 74
+Damage - 2/4
+
+Club Moblin 75
+Damage - 2/4
+
+Gerudo Guard 76
+Damage - 0
