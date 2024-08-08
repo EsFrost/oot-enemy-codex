@@ -1,27 +1,33 @@
-DROP TABLE IF EXISTS enemy_npcs;
-DROP TABLE IF EXISTS items;
+DROP TABLE IF EXISTS monsters;
+DROP TABLE IF EXISTS groups;
 DROP TABLE IF EXISTS drops;
 
-CREATE TABLE enemy_npcs (
+CREATE TABLE monsters (
     id SERIAL PRIMARY KEY,
-    name TEXT,
+    name VARCHAR(255),
     description TEXT,
-    health INT,
-    attack INT
-);
-
-CREATE TABLE items (
-    id SERIAL PRIMARY KEY,
-    name TEXT,
-    description TEXT
+    navi_text TEXT,
+    hp INT,
+    damage INT,
+    dot INT,
+    location TEXT,
+    weakness TEXT,
+    strength TEXT,
+    image_url TEXT,
 );
 
 CREATE TABLE drops (
     id SERIAL PRIMARY KEY,
-    enemy_npc_id INT,
-    item_id INT,
-    drop_rate INT,
-    quantity INT,
-    FOREIGN KEY (enemy_npc_id) REFERENCES enemy_npcs(id),
-    FOREIGN KEY (item_id) REFERENCES items(id)
+    item TEXT,
+    amount TEXT,
+    rate FLOAT
+);
+
+CREATE TABLE groups (
+    id SERIAL PRIMARY KEY,
+    group_id INT,
+    drop_id INT,
+    monster_id INT,
+    FOREIGN KEY (drop_id) REFERENCES drops(id),
+    FOREIGN KEY (monster_id) REFERENCES monsters(id)
 );
