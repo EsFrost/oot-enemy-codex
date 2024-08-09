@@ -460,7 +460,7 @@ INSERT INTO monsters (id, name, description, boss_text, navi_text, hp, damage, d
 0,
 'Hookshot, explosives, sword attacks',
 'Weak',
-'/images/enemies/flaredancer.png'),
+'/images/enemies/flare_dancer.png'),
 (43,
 'Volvagia',
 'Volvagia is the boss of the Fire Temple and is a formidable dragon-like creature with fiery breath and volcanic attributes. It has a serpentine body and a head that resembles a dragon, covered in molten lava. Volvagia attacks by breathing fire, causing lava eruptions, and occasionally emerging from holes in the ceiling to bite or swipe at Link. During the battle, it will occasionally retreat into the ground, making it temporarily invisible and harder to hit.',
