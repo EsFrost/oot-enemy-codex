@@ -5,7 +5,7 @@ export default async function Home() {
 
   return (
     <div className="flex flex-wrap justify-center">
-      <Card
+      {/*<Card
         name="Pikachu"
         type="Electric"
         description="Pikachu is a Electric-type Pokémon."
@@ -16,12 +16,13 @@ export default async function Home() {
         type="Fire/Flying"
         description="Charizard is a Fire/Flying-type Pokémon."
         image="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png"
-      />
+      />*/}
       <Card
-        name="Charizard"
-        type="Fire/Flying"
-        description="Charizard is a Fire/Flying-type Pokémon."
+        name="Amy"
+        id="#1"
+        description="One of the poe sisters."
         image="/images/enemies/amy.png"
+        className='mt-4'
       />
     </div>
   )
