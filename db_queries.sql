@@ -1,6 +1,7 @@
 DROP TABLE IF EXISTS monsters CASCADE;
 DROP TABLE IF EXISTS groups CASCADE;
 DROP TABLE IF EXISTS drops CASCADE;
+DROP TABLE IF EXISTS groups_drops CASCADE;
 
 CREATE TABLE monsters (
     id INT PRIMARY KEY,
@@ -26,8 +27,14 @@ CREATE TABLE drops (
 CREATE TABLE groups (
     id INT PRIMARY KEY,
     group_id INT,
-    drop_id INT,
     monster_id INT,
-    FOREIGN KEY (drop_id) REFERENCES drops(id),
     FOREIGN KEY (monster_id) REFERENCES monsters(id)
+);
+
+CREATE TABLE groups_drops (
+    id INT PRIMARY KEY,
+    group_id INT,
+    drop_id INT,
+    FOREIGN KEY (group_id) REFERENCES groups(id),
+    FOREIGN KEY (drop_id) REFERENCES drops(id)
 );
