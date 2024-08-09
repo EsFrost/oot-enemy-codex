@@ -1,7 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['www.pokemon.com'], // add the domain here
+      remotePatterns: [
+        {
+          protocol: 'https',
+          hostname: 'www.pokemon.com',
+          port: '',
+          pathname: '/**',
+        }
+      ], // add the domain here
       },
 };
 

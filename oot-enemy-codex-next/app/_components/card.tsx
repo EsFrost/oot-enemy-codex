@@ -22,7 +22,7 @@ const Card: React.FC<CardProps> = ({
       className={`bg-white rounded-lg shadow-md p-4 ${className} w-64 h-96`}
     >
       <div className="flex justify-center mb-4">
-        <Image src={image} alt={name} width={192} height={192} />
+        <Image src={image} alt={name} width={192} height={192} className="w-52 h-52" />
       </div>
       <div className="flex flex-col justify-between h-full">
         <div>
