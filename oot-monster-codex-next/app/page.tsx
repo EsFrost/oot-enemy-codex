@@ -20,7 +20,7 @@ export default function Home() {
   const [cards, setCards] = useState([])
 
   useEffect(() => {
-    fetch('http://localhost:3001/monsters', {
+    fetch('http://192.168.1.123:3001/monsters', {
       method: 'GET',
       headers: {
         'Content-Type': 'application/json'

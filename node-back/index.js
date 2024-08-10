@@ -9,7 +9,7 @@ const monstersRouter = require('./routes/MonstersRouter')
 app.use(express.json())
 app.use(helmet())
 app.use(cors({
-    origin: 'http://localhost:3000'
+    origin: ['http://localhost:3000', 'http://192.168.1.123:3000']
 }))
 
 const limiter = rateLimit({

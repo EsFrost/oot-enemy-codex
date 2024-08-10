@@ -21,7 +21,7 @@ const SearchBar = ({ onSearch, inputClass, buttonClass, containerClass }: Search
       const cleanInput = sanitizeInput(searchQuery)
       try {
         if (cleanInput === '') {
-          const response = await fetch('http://localhost:3001/monsters', {
+          const response = await fetch('http:///192.168.1.123:3001/monsters', {
             method: 'GET',
             headers: {
               'Content-Type': 'application/json'
@@ -30,7 +30,7 @@ const SearchBar = ({ onSearch, inputClass, buttonClass, containerClass }: Search
           const data = await response.json()
           onSearch(data)
         } else {
-          const response = await fetch(`http://localhost:3001/monsters/search/${cleanInput}`, {
+          const response = await fetch(`http:///192.168.1.123:3001/monsters/search/${cleanInput}`, {
             method: 'GET',
             headers: {
               'Content-Type': 'application/json'
@@ -51,7 +51,7 @@ const SearchBar = ({ onSearch, inputClass, buttonClass, containerClass }: Search
     const cleanInput = sanitizeInput(searchQuery)
     if (cleanInput === '') {
       try {
-        const response = await fetch('http://localhost:3001/monsters', {
+        const response = await fetch('http:///192.168.1.123:3001/monsters', {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json'
@@ -64,7 +64,7 @@ const SearchBar = ({ onSearch, inputClass, buttonClass, containerClass }: Search
       }
     } else {
       try {
-        const response = await fetch(`http://localhost:3001/monsters/search/${cleanInput}`, {
+        const response = await fetch(`http:///192.168.1.123:3001/monsters/search/${cleanInput}`, {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json'
