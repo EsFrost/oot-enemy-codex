@@ -43,7 +43,7 @@ const Card: React.FC<CardProps> = ({
         </div>
         <div className='flex flex-col'>
           <div className={`flex justify-between ${hp > 20 || dmg > 20 || dot > 20 ? 'flex-col' : 'flex-row'}`}>
-              <p className='flex text-[#FF6347]'>HP:
+              <p className='flex text-[#FF6347]'><span className={`${hp > 20 || dmg > 20 || dot > 20 ? 'w-12' : ''}`}>HP:</span>
                 {Array.from({ length: (hp - hp % 4) / 4 }).map((_, index) => (
                   <Image src="/images/assets/4_4-hp.png" alt="Full heart" width={10} height={10} className='ml-1 w-4 h-4 mt-1' key={index} />
                 ))}
@@ -52,7 +52,7 @@ const Card: React.FC<CardProps> = ({
                   hp < 4 ? 
                   <Image src={`/images/assets/0.png`} alt={`Empty heart`} width={20} height={20} className='ml-1 w-4 h-4 mt-1' /> : '' }
                 </p>
-              <p className={`flex text-[#CC03CD] ${hp > 20 || dmg > 20 || dot > 20 ? '' : 'ml-2'}`}>DMG:
+              <p className={`flex text-[#CC03CD] ${hp > 20 || dmg > 20 || dot > 20 ? '' : 'ml-2'}`}> <span className={`${hp > 20 || dmg > 20 || dot > 20 ? 'w-12' : ''}`}>DMG:</span> 
                 {Array.from({ length: (dmg - dmg % 4) / 4 }).map((_, index) => (
                   <Image src="/images/assets/4_4-damage.png" alt="Full heart" width={10} height={10} className='ml-1 w-4 h-4 mt-1' key={index} />
                 ))}
@@ -61,7 +61,7 @@ const Card: React.FC<CardProps> = ({
                   dmg < 4 ? 
                   <Image src={`/images/assets/0.png`} alt={`Empty heart`} width={20} height={20} className='ml-1 w-4 h-4 mt-1' /> : '' }
               </p>
-              <p className={`flex text-[#3ec545] ${hp > 20 || dmg > 20 || dot > 20 ? '' : 'ml-2'}`}>DOT:
+              <p className={`flex text-[#3ec545] ${hp > 20 || dmg > 20 || dot > 20 ? '' : 'ml-2'}`}><span className={`${hp > 20 || dmg > 20 || dot > 20 ? 'w-12' : ''}`}>DOT:</span>
                 {Array.from({ length: (dot - dot % 4) / 4 }).map((_, index) => (
                   <Image src="/images/assets/4_4-dot.png" alt="Full heart" width={10} height={10} className='ml-1 w-4 h-4 mt-1' key={index} />
                 ))}

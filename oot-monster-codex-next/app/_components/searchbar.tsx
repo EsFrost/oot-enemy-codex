@@ -40,7 +40,6 @@ const SearchBar = ({ onSearch }: SearchBarProps) => {
         console.log(err)
       }
       // Send search query to API or handle search logic here
-      console.log('Search query:', cleanInput)
       setSearchQuery('')
     }
   }
