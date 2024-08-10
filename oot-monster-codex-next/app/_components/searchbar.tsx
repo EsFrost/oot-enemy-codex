@@ -3,9 +3,12 @@ import sanitizeHtml from 'sanitize-html'
 
 interface SearchBarProps {
   onSearch: (data: any) => void
+  inputClass?: string
+  buttonClass?: string
+  containerClass?: string
 }
 
-const SearchBar = ({ onSearch }: SearchBarProps) => {
+const SearchBar = ({ onSearch, inputClass, buttonClass, containerClass }: SearchBarProps) => {
   const [searchQuery, setSearchQuery] = useState('')
 
   const sanitizeInput = (input: string) => {
@@ -79,21 +82,21 @@ const SearchBar = ({ onSearch }: SearchBarProps) => {
   }
 
   return (
-    <div className="flex items-center relative">
+    <div className={`flex items-center relative ${containerClass}`}>
       <input
         type="text"
-        className="pl-8 py-2 text-sm text-gray-700 rounded-full focus:outline-none focus:ring-2 focus:ring-gray-400 w-64 md:w-80 lg:w-96 xl:w-128"
+        className={`pl-8 py-2 text-sm text-[#E0E0E0] rounded-full focus:outline-none focus:ring-2 focus:ring-[#3D3D3D] w-64 md:w-80 lg:w-96 xl:w-128 bg-[#2A2A2A] ${inputClass}`}
         placeholder="Search a name, boss text or id..."
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
         onKeyDown={handleSearch}
       />
       <button
-        className="bg-gray-200 hover:bg-gray-300 rounded-full p-2 cursor-pointer ml-2"
+        className={`bg-[#2A2A2A] hover:bg-[#3D3D3D] rounded-full p-2 cursor-pointer ml-2 transition-all duration-300 ease-in-out ${buttonClass}`}
         onClick={handleSearchIconClick}
       >
         <svg
-          className="w-4 h-4 text-gray-600"
+          className="w-4 h-4 text-[#E0E0E0]"
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"

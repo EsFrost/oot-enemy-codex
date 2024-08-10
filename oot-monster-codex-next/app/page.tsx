@@ -38,7 +38,7 @@ export default function Home() {
   return (
     <>
       <div className='flex justify-center'>
-        <SearchBar onSearch={handleSearch} />
+        <SearchBar onSearch={handleSearch} containerClass='mt-4' />
       </div>
       
     
