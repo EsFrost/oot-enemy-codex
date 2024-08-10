@@ -10,12 +10,12 @@ function getAll() {
 // For the search bar
 function search(param) {
     // Ensure param is a string for LIKE queries
-    const likePattern = `%${param}%`
+    const likePattern = `%${param.toLowerCase()}%`
     // Convert param to integer if you are expecting an integer id
     const id = parseInt(param, 10)
     const values = [likePattern, isNaN(id) ? null : id]
 
-    const query = `SELECT * FROM monsters WHERE name LIKE $1 OR boss_text LIKE $1 OR id = $2`
+    const query = `SELECT * FROM monsters WHERE name ILIKE $1 OR boss_text ILIKE $1 OR id = $2`
     return pool.query(query, values)
 }
 
