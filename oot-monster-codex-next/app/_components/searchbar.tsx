@@ -1,3 +1,4 @@
+// SearchBar.tsx
 import { useState } from 'react'
 import sanitizeHtml from 'sanitize-html'
 
@@ -6,11 +7,11 @@ interface SearchBarProps {
   inputClass?: string
   buttonClass?: string
   containerClass?: string
+  setSearchQuery: (query: string) => void
+  searchQuery: string
 }
 
-const SearchBar = ({ onSearch, inputClass, buttonClass, containerClass }: SearchBarProps) => {
-  const [searchQuery, setSearchQuery] = useState('')
-
+const SearchBar = ({ onSearch, inputClass, buttonClass, containerClass, setSearchQuery, searchQuery }: SearchBarProps) => {
   const sanitizeInput = (input: string) => {
     return sanitizeHtml(input, {allowedTags: [], allowedAttributes: {}})
   }
@@ -85,14 +86,14 @@ const SearchBar = ({ onSearch, inputClass, buttonClass, containerClass }: Search
     <div className={`flex items-center relative ${containerClass}`}>
       <input
         type="text"
-        className={`pl-8 py-2 text-sm text-[#E0E0E0] rounded-full focus:outline-none focus:ring-2 focus:ring-[#3D3D3D] w-64 md:w-80 lg:w-96 xl:w-128 bg-[#2A2A2A] ${inputClass}`}
+        className={`pl-8 py-2 text-sm text-[#E0E0E0] rounded-full focus:outline-none focus:ring-2 focus:ring-[#3D3D3D] w-64 md:w-80 lg:w-96 xl:w-128 bg-[#1E1E1E] ${inputClass}`}
         placeholder="Search a name, boss text or id..."
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
         onKeyDown={handleSearch}
       />
       <button
-        className={`bg-[#2A2A2A] hover:bg-[#3D3D3D] rounded-full p-2 cursor-pointer ml-2 transition-all duration-300 ease-in-out ${buttonClass}`}
+        className={`bg-[#1E1E1E] hover:bg-[#3D3D3D] rounded-full p-2 cursor-pointer ml-2 transition-all duration-300 ease-in-out ${buttonClass}`}
         onClick={handleSearchIconClick}
       >
         <svg
