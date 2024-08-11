@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react'
 import Card from './_components/card'
 import Header from './_components/header'
+import Footer from './_components/footer'
 
 interface Cards {
   name: string
@@ -47,7 +48,7 @@ export default function Home() {
   }
 
   return (
-    <>
+    <div className='min-h-screen flex flex-col justify-between'>
       <Header onSearch={handleSearch} defaultData={cards} />
 
       <div className="flex flex-wrap justify-center">
@@ -66,6 +67,8 @@ export default function Home() {
           />
         ))}
       </div>
-    </>
+      
+      <Footer />
+    </div>
   )
 }
