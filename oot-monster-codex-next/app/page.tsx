@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react'
 import Card from './_components/card'
 import Header from './_components/header'
 import Footer from './_components/footer'
+import ToTop from './_components/totop'
 
 interface Cards {
   name: string
@@ -51,6 +52,8 @@ export default function Home() {
     <div className='min-h-screen flex flex-col justify-between'>
       <Header onSearch={handleSearch} defaultData={cards} />
 
+      <ToTop />
+
       <div className="flex flex-wrap justify-center">
         {cards.map((item: Cards) => (
           <Card
@@ -67,7 +70,7 @@ export default function Home() {
           />
         ))}
       </div>
-      
+
       <Footer />
     </div>
   )
