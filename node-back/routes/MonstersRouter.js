@@ -5,6 +5,7 @@ const monstersController = require('../controllers/MonstersController')
 /* method: GET */
 monstersRouter.get('/', monstersController.getAll)
 monstersRouter.get('/search/:param', monstersController.search)
-monstersRouter.get('/:id', monstersController.individualCard)
+monstersRouter.get('/monster/:id', monstersController.individualCard)
+monstersRouter.get('/total', monstersController.getTotal)
 
 module.exports = monstersRouter

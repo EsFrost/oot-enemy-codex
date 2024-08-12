@@ -33,9 +33,14 @@ JOIN monsters m ON g.monster_id = m.id
 WHERE m.id = $1`, [id])
 }
 
+function countMax() {
+    return pool.query(`SELECT COUNT(*) FROM monsters`)
+}
+
 module.exports = {
     getAll,
     search,
     individualCard,
-    availableDetails
+    availableDetails,
+    countMax
 }

@@ -59,8 +59,19 @@ async function individualCard(req, res) {
     }
 }
 
+async function getTotal(req, res) {
+    try{
+        const result = await monstersModel.countMax()
+        res.status(200).json({total: result.rows[0].count})
+    }
+    catch (err) {
+        res.status(500).json({message: "Failed to get total", error: err})
+    }
+}
+
 module.exports = {
     getAll,
     search,
-    individualCard
+    individualCard,
+    getTotal
 }
