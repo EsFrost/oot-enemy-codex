@@ -24,7 +24,7 @@ interface Card {
     item?: string
     amount?: string
     rate?: number
-  }
+  }[]
 }
 
 interface Total {
@@ -35,8 +35,6 @@ const Info = () => {
 
   const pathname = usePathname()
   const id = pathname?.split('/').pop()
-
-  console.log(id)
 
   const [card, setCard] = useState<Card>()
   const [total, setTotal] = useState<Total>()

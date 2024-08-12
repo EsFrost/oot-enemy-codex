@@ -4,7 +4,6 @@ import Card from './_components/card'
 import Header from './_components/header'
 import Footer from './_components/footer'
 import ToTop from './_components/totop'
-import Link  from 'next/link'
 
 interface Cards {
   name: string
@@ -58,20 +57,18 @@ export default function Home() {
       
         <div className="flex flex-wrap justify-center">
           {cards.map((item: Cards) => (
-            <Link href={`/${item.id}`} key={item.id}>
               <Card
                 key={item.id}
                 name={item.name}
-                id={`#${item.id}`}
+                id={item.id}
                 description={item.description.length > 100 ? item.description.slice(0, 100) + '...' : item.description}
                 image={item.image_url}
                 boss_text={item.boss_text}
                 hp={item.hp}
                 dmg={item.damage}
                 dot={item.dot}
-                className='m-4'
+                className='m-8'
               />
-            </Link>
           ))}
         </div>
       
