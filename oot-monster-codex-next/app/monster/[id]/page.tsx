@@ -70,7 +70,10 @@ const Info = () => {
             }
             })
             .then(response => response.json())
-            .then(data => setCard(data))
+            .then(data => {
+              setCard(data)
+              document.title= `OoTM-Dex | ${data?.card?.name}`
+            })
             .catch(err => console.log(err))
         })
         .catch(err => console.log(err))

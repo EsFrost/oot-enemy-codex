@@ -1,3 +1,2 @@
 style 404 page
-add loading for content with skeleton
-change site name and icons
+create a skeleton loading component and style it
