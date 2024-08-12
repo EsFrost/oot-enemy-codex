@@ -9,21 +9,21 @@ const Footer = () => {
     <footer className='flex flex-col text-[#E0E0E0] bg-[#2A2A2A] mt-4'>
         <div className='flex flex-col lg:flex-row lg:justify-between'>
             <div className='p-4 lg:w-1/3'>
-                <h2 className='text-center text-lg lg:text-left flex'>
+                <h2 className='text-lg flex justify-center lg:justify-normal items-center'>
                     <FontAwesomeIcon icon={faEnvelope} className='mr-2 w-4' />
                     Contact
                 </h2>
                 <p className='text-center lg:text-left'>Email: <a href='mailto:sigmafi.tech@gmail.com' className='text-white'>sigmafi.tech@gmail.com</a></p>
             </div>
             <div className='p-4 lg:w-1/3'>
-                <h2 className='text-center text-lg lg:text-left flex'>
+                <h2 className='text-lg lg:text-left flex justify-center lg:justify-normal items-center'>
                     <FontAwesomeIcon icon={faGavel} className='mr-2 w-4' />
                     Disclaimer
                 </h2>
                 <p>Images in this website likely represent intellectual property owned by Nintendo, its affiliates, or associated entities. They are presented here under fair use, as the website is utilized in a noncommercial context to illustrate, discuss, and support the original work without infringing on the rights or financial interests of the owner.                </p>
             </div>
             <div className='p-4 lg:w-1/3'>
-                <h2 className='text-center text-lg lg:text-left flex'>
+                <h2 className='text-lg lg:text-left flex justify-center lg:justify-normal items-center'>
                     <FontAwesomeIcon icon={faCookie} className='mr-2 w-4' />
                     Cookies
                 </h2>

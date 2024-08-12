@@ -2,6 +2,9 @@
 import React, { useState, useEffect } from 'react'
 import HeaderNoSearch from '../_components/headernosearch'
 import Footer from '../_components/footer'
+import InfoCard from '../_components/infocard'
+import { usePathname } from 'next/navigation'
+import sanitizeHtml from 'sanitize-html'
 
 interface Card {
   card: {
@@ -15,7 +18,7 @@ interface Card {
     dot: number
     weakness: string
     strength: string
-    attack_type: string
+    image_url: string
   }
   details?: {
     item?: string
@@ -24,12 +27,25 @@ interface Card {
   }
 }
 
+interface Total {
+  total: number
+}
+
 const Info = () => {
 
+  const pathname = usePathname()
+  const id = pathname?.split('/').pop()
+
+  console.log(id)
+
   const [card, setCard] = useState<Card>()
+  const [total, setTotal] = useState<Total>()
 
   useEffect(() => {
-    fetch('http://localhost:3001/monsters/monster/1', {
+    if (id) {
+      const sanitizedId = sanitizeHtml(id as string, {allowedTags: [], allowedAttributes: {}})
+    
+    fetch(`http://localhost:3001/monsters/monster/${sanitizedId}`, {
       method: 'GET',
       headers: {
         'Content-Type': 'application/json'
@@ -38,14 +54,25 @@ const Info = () => {
       .then(response => response.json())
       .then(data => setCard(data))
       .catch(err => console.log(err))
-  }, [])
 
-  console.log(card)
+      fetch('http://localhost:3001/monsters/total', {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+        })
+        .then(response => response.json())
+        .then(data => setTotal(data))
+        .catch(err => console.log(err))
+      }
+  }, [id])
 
   return (
     <div className='min-h-screen flex flex-col justify-between text-[#E0E0E0]'>
       <HeaderNoSearch />
-      <p>{card?.card?.name}</p>
+      {/*<p>{card?.card?.name}</p>
+      <p>{total?.total}</p>*/}
+      <InfoCard card={card?.card} details={card?.details}/>
       <Footer />
     </div>
   )
