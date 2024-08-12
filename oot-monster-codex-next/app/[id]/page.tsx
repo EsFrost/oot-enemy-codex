@@ -68,8 +68,6 @@ const Info = () => {
   return (
     <div className='min-h-screen flex flex-col justify-between text-[#E0E0E0]'>
       <HeaderNoSearch />
-      {/*<p>{card?.card?.name}</p>
-      <p>{total?.total}</p>*/}
       <InfoCard card={card?.card} details={card?.details}/>
       <Footer />
     </div>
