@@ -759,7 +759,7 @@ INSERT INTO monsters (id, name, description, boss_text, navi_text, hp, damage, d
 'Strong',
 '/images/enemies/iron_knuckle_nabooru.png'),
 (70,
-'Twirova',
+'Twinrova',
 'Twinrova is the boss of the Spirit Temple and consists of two distinct forms: Koume and Kotake. They are twin sorceresses who share a single body but have different elemental powers.
 
 Koume: The fiery half of Twinrova, Koume uses fire-based attacks, such as shooting fireballs and creating fiery barriers.

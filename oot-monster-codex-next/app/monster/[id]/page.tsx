@@ -74,9 +74,9 @@ const Info = () => {
               setCard(data)
               document.title= `OoTM-Dex | ${data?.card?.name}`
             })
-            .catch(err => console.log(err))
+            .catch(err => console.log('Error: ',err))
         })
-        .catch(err => console.log(err))
+        .catch(err => console.log('Error: ', err))
       }
       else {
         router.push('/404')
