@@ -9,6 +9,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'BotW';
+    src: url('/fonts/BotW.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     background-color: #121212;
 }

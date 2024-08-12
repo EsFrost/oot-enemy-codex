@@ -30,11 +30,11 @@ const Card: React.FC<CardProps> = ({
     <div
       className={`bg-[#2A2A2A] text-[#E0E0E0] rounded-lg ${boss_text ? 'shadow-[5px_5px_15px_0_rgba(255,215,0,0.5)] hover:shadow-[-5px_5px_15px_0_rgba(255,215,0,0.5)]' : 'shadow-[5px_5px_15px_0_rgba(255,255,255,0.2)] hover:shadow-[-5px_5px_15px_0_rgba(255,255,255,0.2)]' } p-4 ${className} w-80 h-[500px] flex flex-col duration-500 ease-in-out transition-all`}
     >
-      <Link href={`/${id}`} className="flex justify-center mb-4">
+      <Link href={`/monster/${id}`} className="flex justify-center mb-4">
           <Image src={image} alt={name} width={192} height={192} className="w-42 h-52 bg-[#6C6C6C] rounded-lg p-2 w-auto" />
       </Link>
       
-      <Link href={`/${id}`} className="flex flex-col justify-between h-full">
+      <Link href={`/monster/${id}`} className="flex flex-col justify-between h-full">
         
           <div>
             <div className='flex justify-center items-center relative'>

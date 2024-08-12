@@ -1,4 +1,3 @@
-change font family
-add 404 page
-add logic: if id doesn't exist go to 404
+style 404 page
 add loading for content with skeleton
+change site name and icons
