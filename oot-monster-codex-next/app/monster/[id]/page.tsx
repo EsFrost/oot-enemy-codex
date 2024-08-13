@@ -1,5 +1,5 @@
 'use client'
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useMemo } from 'react'
 import HeaderNoSearch from '../../_components/headernosearch'
 import Footer from '../../_components/footer'
 import InfoCard from '../../_components/infocard'
@@ -8,6 +8,7 @@ import sanitizeHtml from 'sanitize-html'
 import { faChevronLeft, faChevronRight } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Link from 'next/link'
+import { only } from 'node:test'
 
 interface Card {
   card: {
@@ -36,6 +37,8 @@ interface Total {
 
 const Info = () => {
 
+  const onlyNumbersRegex = useMemo(() => /^\d+$/, []);
+
   const router = useRouter()
   const pathname = usePathname()
   const id = pathname?.split('/').pop()
@@ -44,7 +47,7 @@ const Info = () => {
   const [total, setTotal] = useState<Total>()
 
   useEffect(() => {
-    if (id && parseInt(id)) {
+    if (id && onlyNumbersRegex.test(id)) {
       const sanitizedId = sanitizeHtml(id as string, {allowedTags: [], allowedAttributes: {}})
 
 
@@ -82,7 +85,7 @@ const Info = () => {
         router.push('/404')
         return
       }
-  }, [id, router])
+  }, [id, onlyNumbersRegex, router])
 
   return (
     <div className='min-h-screen flex flex-col justify-between text-[#E0E0E0]'>
