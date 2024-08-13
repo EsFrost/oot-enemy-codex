@@ -4,27 +4,6 @@ import HeaderNoSearch from './_components/headernosearch'
 import Footer from './_components/footer'
 import InfoCard from './_components/infocard'
 
-interface Card {
-  card: {
-    id: string
-    name: string
-    description: string
-    boss_text?: string
-    navi_text?: string
-    hp: number
-    damage: number
-    dot: number
-    weakness: string
-    strength: string
-    image_url: string
-  }
-  details?: {
-    item?: string
-    amount?: string
-    rate?: number
-  }[]
-}
-
 const PageNotFound = () => {
 
   const card = {
@@ -34,11 +13,11 @@ const PageNotFound = () => {
       description: 'The page you requested could not be found.',
       boss_text: '',
       navi_text: 'Hey, listen! This page does not exist.',
-      hp: 0,
-      damage: 0,
-      dot: 0,
-      weakness: '',
-      strength: '',
+      hp: 4,
+      damage: 4,
+      dot: 4,
+      weakness: 'Correct links',
+      strength: 'Very strong',
       image_url: ''
     },
     details: []

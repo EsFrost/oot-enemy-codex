@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "OoTM-Dex",
   description: "A collection of all enemy npcs, their description, stats, etc",
   icons: {
-    icon: "/ootm-dex.ico",
+    icon: "/ootm-dex-white.ico",
   },
 }
 

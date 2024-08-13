@@ -20,17 +20,35 @@ interface Cards {
 
 export default function Home() {
   const [cards, setCards] = useState<Cards[]>([])
-  const [loading, setLoading] = useState(true)
+  const [loading, setLoading] = useState(true)  // Add loading state
 
   useEffect(() => {
-    setLoading(true)
-
     fetch('http://localhost:3001/monsters', {
       method: 'GET',
       headers: {
-        'Content-Type': 'application/json',
-      },
+        'Content-Type': 'application/json'
+      }
     })
+    .then(response => response.json())
+    .then(data => {
+      setCards(data)
+      setLoading(false)  // Set loading to false when data is fetched
+    })
+    .catch(err => {
+      console.log(err)
+      setLoading(false)  // Set loading to false even if there's an error
+    })
+  }, [])
+
+  const handleSearch = (data: Cards[]) => {
+    if (data.length === 0) {
+      setLoading(true);
+      fetch('http://localhost:3001/monsters', {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      })
       .then(response => response.json())
       .then(data => {
         setCards(data)
@@ -40,26 +58,6 @@ export default function Home() {
         console.log(err)
         setLoading(false)
       })
-  }, [])
-
-  const handleSearch = (data: Cards[]) => {
-    if (data.length === 0) {
-      setLoading(true)
-      fetch('http://localhost:3001/monsters', {
-        method: 'GET',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-      })
-        .then(response => response.json())
-        .then(data => {
-          setCards(data)
-          setLoading(false)
-        })
-        .catch(err => {
-          console.log(err)
-          setLoading(false)
-        })
     } else {
       setCards(data)
     }
@@ -68,7 +66,9 @@ export default function Home() {
   return (
     <div className='min-h-screen flex flex-col justify-between'>
       <Header onSearch={handleSearch} defaultData={cards} />
+
       <ToTop />
+
       <div className="flex flex-wrap justify-center">
         {loading ? <Loading /> : cards.map((item: Cards) => (
           <Card
@@ -85,6 +85,7 @@ export default function Home() {
           />
         ))}
       </div>
+
       <Footer />
     </div>
   )
